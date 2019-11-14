@@ -2,4 +2,4 @@
 # Author : Bishal Shaw
 
 read -p 'Enter serveo port: ' port
-ssh -R $port:localhost:4444 serveo.net
+ssh -R $port:iqbal-34553.portmap.io:4444 portmap.io
